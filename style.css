@@ -1,0 +1,100 @@
+        @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: 'Inter', sans-serif;
+        }
+        
+        .main-section {
+            border: 2px solid #000;
+            margin: 20px 20px;
+        }
+        
+        .main {
+            padding-top: 10px;
+            padding-bottom: 50px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        
+        #header {
+            color: #000;
+            font-size: 64px;
+            font-weight: 700;
+            text-decoration-line: underline;
+            padding-top: 10px;
+            padding-left: 10px;
+        }
+        
+        #beagle {
+            color: #000;
+            font-size: 30px;
+            font-style: italic;
+            font-weight: 700;
+        }
+        
+        #f1-paragraph {
+            color: #000;
+            font-size: 30px;
+            font-weight: 400;
+            padding: 10px 10px;
+        }
+        
+        .main a {
+            color: #000;
+            font-size: 40px;
+            font-weight: 400;
+            text-decoration-line: underline;
+            padding-left: 10px;
+            padding-top: 10px;
+        }
+        
+        #image {
+            width: 962px;
+            color: #000;
+            font-size: 64px;
+            font-weight: 700;
+            text-decoration-line: underline;
+            margin-left: 20px;
+        }
+        
+        #img {
+            margin-left: 20px;
+            margin-top: 20px;
+        }
+        
+        .more-img {
+            color: #000;
+            font-size: 40px;
+            font-weight: 400;
+            text-decoration-line: underline;
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+        
+        .footer-heading {
+            color: #000;
+            font-size: 64px;
+            font-weight: 700;
+            text-decoration-line: underline;
+            margin-top: 20px;
+            margin-left: 10px;
+        }
+        
+        .footer {
+            margin-top: 10px;
+            margin-left: 20px;
+            margin-bottom: 50px;
+        }
+        
+        .footer ol {
+            margin-top: 20px;
+        }
+        
+        .footer li {
+            color: #000;
+            margin-left: 60px;
+            font-size: 30px;
+            font-weight: 400;
+            margin-top: 10px;
+        }
